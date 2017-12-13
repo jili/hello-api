@@ -1,0 +1,4 @@
+spring.jpa.hibernate.ddl-auto=none
+spring.datasource.url=jdbc:mysql://server-address:port/dbname?useSSL=false
+spring.datasource.username=
+spring.datasource.password=

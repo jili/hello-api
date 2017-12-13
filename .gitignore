@@ -1,0 +1,14 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+/src/main/resources/application.properties
+/.gradle
+/.settings
+/bin
+/gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
